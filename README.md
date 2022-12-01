@@ -1,5 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 
+<br>
+
 <div align="center">
   <img display="block" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dayannebugarim&theme=tokyonight&hide_border=true"/>
   <img display="block" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayannebugarim&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
