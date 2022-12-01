@@ -1,4 +1,4 @@
-### Hi there 👋
+<h5 align="center">Hi there 👋</h5>
 
 <div align="center">
   <img display="block" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dayannebugarim&theme=tokyonight&hide_border=true"/>
